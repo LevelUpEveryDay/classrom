@@ -1,4 +1,4 @@
-public class Gundam Seed {
+public class GundamSeed {
     public static void main(String[] args) {
         System.out.println("Gundam Seed");
     }
